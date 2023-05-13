@@ -1,4 +1,5 @@
-. Why we have static keyword in Java?
+ upddate in user1
+1. Why we have static keyword in Java?
 
 2. Why we create static methods and what are benefits of that?
 
