@@ -1,0 +1,16 @@
+1) What is CopyOnWriteArrayList, how it is different than ArrayList and Vector?
+2) Why ListIterator has add() method but Iterator doesn't or Why add() method is declared in ListIterator and not on Iterator.
+3) Can we replace Hashtable with ConcurrentHashMap?
+4) What is navigational Map?
+5) How does LinkedList is implemented in Java, is it a Singly LinkedList or Doubly LinkedList?
+6) Which one you will prefer between Array and ArrayList for Storing object and why? (Generics, dynamic growing )
+7) What is BlockingQueue, how it is different than other collection classes( flow control)
+8) How do you iterator over Synchronized HashMap, do you need to lock iteration and why ?
+9) When does ConcurrentModificationException occur on iteration?
+10) What is Deque? when do you use it ?
+11) Difference between Set, List and Map Collection classes?
+12) How does HashSet is implemented in Java, How does it uses Hashing ?
+
+
+Read more: https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html#ixzz7h14D1jpc
+https://javarevisited.blogspot.com/2011/11/collection-interview-questions-answers.html#axzz7gvbIseVE

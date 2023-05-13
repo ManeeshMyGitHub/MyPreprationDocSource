@@ -1,0 +1,111 @@
+Spring & Spring Boot:
+
+Explain JPA structure.
+
+Which annotation/ configuration is required to enable the native SQL in JPA?
+
+Explain Entity in JPA and all annotations used to create Entity class. How can we define a composite key in the Entity class?
+
+JPA — Annotation used for a composite attribute?
+What arguments can pass in transactional arguments?
+JPA — How to handle the Parent and child relationship?
+
+Which annotation is used to handle the joins between multiple tables at the Entity class level?
+
+How do handle unidirectional join and bidirectional join at the Entity level?
+
+Which annotation is used to enable Kafka?
+
+How to handle cyclic dependency between beans? Let’s say for ex: Bean A is dependent on Bean B and Bean B is dependent on Bean A.How does the spring container handle eager & lazy loading?
+
+How to set the properties across different environments like Dev, QA, PROD, etc.
+
+Describe the AOP concept and which all annotations are used. How to define the pointcuts?
+
+How to handle a transaction and the isolation levels of the transaction?
+
+Microservices:
+
+What are the design principles of Microservices?
+
+What is the advantage of microservices against Spring Boot Application + Spring Cloud?
+
+Which design patterns are used for database design in microservices?
+
+Explain the CQRS concept. Explain the Choreography concept. Explain the circuit breaker concept and how to implement it.
+
+Which library you have used to implement it? Explain the annotations used for it. How distributed tracing is done?
+
+Microservices — Suggest a design for how to connect internal and external services in microservices.
+
+Saga and Decorator Pattern?
+
+Design Pattern:
+
+Which design patterns you have used?
+
+Explain about Singleton design pattern.
+
+How to break the singleton design pattern?
+
+What is the solution to fix the above problem?
+
+If a child class overrides the parent where the singleton pattern is implemented, then will it break the same? If Yes/No, why?
+
+Which design pattern is used by spring AOP? Explain with logic. How can you create a prototype bean?
+
+JAVA EE:
+
+Explain the difference between ArrayList and LinkedList in terms of internal implementation. When to use ArrayList and when to use LinkedList?
+
+Explain the internal implementation of LinkedList.Explain internal implementation of HashMap.Using which concept of Java we can achieve parallel processing?
+
+If a try /catch block is there with finally block as well and there is a return statement in the catch as well as in the finally block, then will the finally block’s return statement get executed? In try with resource, which Classes are eligible to be used inside the resource block? How to create custom exceptions?
+
+What are fail-safe and fail-fast iterators?
+
+Kafka:
+
+Explain the producer & consumer-based architecture of Kafka.
+
+How to configure the Kafka details?
+
+What is offset in Kafka? If any consumer fails or crashed and then comes alive after some time, then can it continue consuming the messages?
+
+How does Kafka handle this case? What is __consumer_offset?
+
+How to determine the replication factor?
+
+How to persist data directly from Kafka topic.is it possible or not?
+
+REST:
+
+Which HTTP method is idempotent and why? What are all methods supported in REST?
+
+Difference between PUT & POST. What is sent in headers? Can we intercept the header? if yes, how?
+
+Hibernate JPA & Database:
+
+Which all DB you have used?
+
+Write a query to find duplicate entries in a table against a column.
+
+Do you know triggers and how does it work?
+
+Differences between Indexing and Partitioning?
+
+Scenario Based questions:
+
+Service A is calling Service B, C, D. I want to log or handle specific conditions before calling B, C, D but in a generic way. How can you handle this situation?
+
+If one of the microservice is having high latency, how can you handle that, and which direction you can think of to resolve this problem? There are a couple of more questions related design patterns scenario. The questions were related to the Adapter pattern & Proxy pattern.
+
+miscellaneous:
+
+Difference between hashmap and linked hashmap?
+How do overcome concurrent modification exceptions in the list?
+Differences between Dockerization and Virtualisation?
+Program to find the nearest target number in the array?
+AWS — VPC in depth?
+SOLID Principles with real-time?
+
